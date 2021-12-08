@@ -1,0 +1,19 @@
+{
+  "name": "Robin",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Fm2xRZntrDpWdYaRDk32s2zdQtckHUgUosMqFtecwGaB",
+        "share": 100
+      }
+    ]
+  }
+}
